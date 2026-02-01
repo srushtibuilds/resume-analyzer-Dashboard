@@ -47,3 +47,23 @@ The dashboard provides visual analytics on resumes, making it easy to understand
 
 Deployed App:
 https://srushtibuilds-resume-analyzer-dashboard-dashboard-sowatf.streamlit.app/
+
+Use Cases
+
+Students optimizing resumes
+
+Freshers preparing for placements
+
+HR resume screening insights
+
+Learning analytics & NLP basics
+
+📌 Future Enhancements
+
+Resume score prediction
+
+Job description matching
+
+Multi-resume comparison
+
+Downloadable analysis report
